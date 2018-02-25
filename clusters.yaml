@@ -1,0 +1,7 @@
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: coquettishly43-hasura
+  data: null
+  kubeContext: coquettishly43
+  name: coquettishly43

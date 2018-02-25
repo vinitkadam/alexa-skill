@@ -1,0 +1,6 @@
+- args:
+    sql: |-
+      CREATE TABLE ipl_finals(
+      season integer,
+      match_id integer);
+  type: run_sql

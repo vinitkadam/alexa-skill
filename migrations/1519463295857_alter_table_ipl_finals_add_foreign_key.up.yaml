@@ -1,0 +1,4 @@
+- args:
+    sql: ALTER TABLE "ipl_finals" ADD FOREIGN KEY ("match_id") REFERENCES "matches"
+      ("id")
+  type: run_sql

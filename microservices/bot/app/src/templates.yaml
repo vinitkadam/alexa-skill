@@ -1,0 +1,7 @@
+welcome: Welcome to IPL search. Ask me something about IPL matches from previous seasons. If you want to quit, say quit.
+
+round: Can you repeat the numbers {{ numbers|join(", ") }} backwards?
+
+win: Good job!
+
+lose: Sorry, that's the wrong answer.
